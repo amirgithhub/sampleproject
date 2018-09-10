@@ -1,0 +1,38 @@
+
+
+--Not necessarly, we are proposing a new TA-based language that is amenable to analysis. 
+
+
+
+
+Complexicity: TE language that is implemented is SELinux. Firstly, consider the property. SELinux is does not satisgy these properties so it is complex. SELinux is not only TE. (TE + RBAC + constraint). prove by counter example...
+
+constraints: I have used counter example... 
+
+
+
+
+Table: one row has almost all of it , edit the overall
+SELinux does provide this properties or not
+
+formaly proved & machine checked for different tools --> Not
+
+
+Xacml: not machine-checked proved---not TE
+
+certifies---> formaly verired-bahman thesis
+
+
+
+
+
+
+
+
+
+
+
+
+How table conributes:
+
+
